@@ -1,39 +1,6 @@
 Referral Program A/B Test
 ================
 
-<style type="text/css">
-
-body{ /* Normal  */
-      font-size: 12px;
-  }
-td {  /* Table  */
-  font-size: 8px;
-}
-h1.title {
-  font-size: 38px;
-  color: DarkRed;
-}
-h1 { /* Header 1 */
-  font-size: 28px;
-  color: DarkRed;
-}
-h2 { /* Header 2 */
-    font-size: 22px;
-  color: DarkBlue;
-}
-h3 { /* Header 3 */
-  font-size: 18px;
-  font-family: "Times New Roman", Times, serif;
-  color: Black;
-}
-code.r{ /* Code block */
-    font-size: 12px;
-}
-pre { /* Code block - determines code spacing between lines */
-    font-size: 14px;
-}
-</style>
-
 ## Background Information
 
 ### Company X has a referral program that allows customers to get paid for referring their friends to the company. It’s a win for everybody because it’s typically cheaper for company X to pay existing customers to refer their friends than it is for them to advertise on Google, Facebook, or anywhere else.
